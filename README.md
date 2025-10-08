@@ -49,6 +49,13 @@ Display help information:
 python stock_assistant.py help
 ```
 
+### Quick Demo
+Run the included demo script to see all features in action:
+```bash
+chmod +x demo.sh
+./demo.sh
+```
+
 ## Available Sample Stocks
 
 For this MVP, the following sample stocks are available:
